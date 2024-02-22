@@ -1,10 +1,10 @@
 ### Olá! Eu sou Luiz Henrique Martendal
 
-<div style="display: flex; flex-direction: column">
-  <div style="width: 50%">
+<div>
+  <div>
     ![UHU](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&hide_progress=false)
   </div>
-  <div style="width: 50%">
+  <div>
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   </div>
 </div>
