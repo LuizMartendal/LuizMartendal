@@ -1,6 +1,7 @@
 ### Olá! Eu sou Luiz Henrique Martendal
 
-![UHU](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&hide_progress=true)
+![UHU](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&hide_progress=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
