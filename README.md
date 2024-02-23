@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-itens: center">
   <img width="350px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&hide_progress=false&theme=dark">
-  <img width="350px" height="400px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark">
+  <img width="350px" height="250px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
