@@ -1,6 +1,6 @@
 ### Olá! Eu sou Luiz Henrique Martendal
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-itens: center">
+<div style="display: flex; flex-direction: column; justify-content: center; align-itens: center">
   <div>
     <img width="350px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&hide_progress=false&theme=dark">
   </div>
