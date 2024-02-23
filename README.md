@@ -2,10 +2,10 @@
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-itens: center">
   <div>
-    <img width="350px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&hide_progress=false&theme=dark">
+    <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&hide_progress=false&theme=dark">
   </div>
   <div>
-    <img width="350px" height="250px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark">
+    <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark">
   </div>
 </div>
 
