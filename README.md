@@ -1,8 +1,8 @@
 ### Olá! Eu sou Luiz Henrique Martendal
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-itens: center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&hide_progress=false&theme=dark">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark">
+  <img width="45vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&hide_progress=false&theme=dark">
+  <img width="45vw" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
