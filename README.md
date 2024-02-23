@@ -1,15 +1,9 @@
 ### Olá! Eu sou Luiz Henrique Martendal
 
-<div style="text-align: center">
-  <div>
-    <img width="45%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&hide_progress=false&theme=dark">
-  </div>
-  <div>
-    <img width="45%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark">
-  </div>
-</div>
+<img width="45%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&hide_progress=false&theme=dark">
+<img width="45%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark">
 
-<div style="display: inline_block; justify-content: center"><br>
+<div style="display: inline_block; text-align: center"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="an" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
