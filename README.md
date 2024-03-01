@@ -1,6 +1,6 @@
 ## Olá! Eu sou Luiz Henrique Martendal
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&langs_count=8&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&langs_count=8&hide_progress=true&theme=dark)
 
 ### Linguagens & Frameworks
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
