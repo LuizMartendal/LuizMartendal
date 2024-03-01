@@ -1,5 +1,7 @@
 ## Olá! Eu sou Luiz Henrique Martendal
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&langs_count=8)
+
 ### Linguagens & Frameworks
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <div style="display: inline_block;">
