@@ -1,6 +1,6 @@
-##Olá! Eu sou Luiz Henrique Martendal
+## Olá! Eu sou Luiz Henrique Martendal
 
-###Linguagens & Frameworks
+### Linguagens & Frameworks
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <div style="display: inline_block;">
         <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -25,7 +25,7 @@
     </div>
   </div>
 
-###O que estou aprendendo?
+### O que estou aprendendo?
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <div style="display: inline_block;">
         <img height="30" width="40" src="https://cdn.simpleicons.org/rabbitmq" />
@@ -33,7 +33,7 @@
     </div>
 </div>
 
-###Interesse em aprender
+### Interesse em aprender
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <div style="display: inline_block;">
         <img height="30" width="40" src="https://cdn.simpleicons.org/react" />
@@ -42,7 +42,7 @@
     </div>
 </div>
 
-###Contato
+### Contato
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <div>
         <a href="https://instagram.com/luiz_martendal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
