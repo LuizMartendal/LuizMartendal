@@ -1,4 +1,4 @@
-<div style="background-color: black; color: white; font-weight: 600">
+<div style="background-color: transparent; color: white; font-weight: 600; font-size: 5em">
   Olá! Eu sou Luiz Henrique Martendal
 </div>
 
