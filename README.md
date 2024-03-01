@@ -1,9 +1,7 @@
-<div style="font-weight: 600; font-size: 30px; text-align: center;">
-  Olá! Eu sou Luiz Henrique Martendal
-</div>
-      
+##Olá! Eu sou Luiz Henrique Martendal
+
+###Linguagens & Frameworks
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <p style="font-weight: 600; font-size: 20px;">Linguagens & Frameworks</p>
     <div style="display: inline_block;">
         <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,23 +24,26 @@
         <img align="center" alt="microsoftsqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
     </div>
   </div>
+
+###O que estou aprendendo?
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <p style="font-weight: 600; font-size: 20px;">O que estou aprendendo?</p>
     <div style="display: inline_block;">
         <img height="30" width="40" src="https://cdn.simpleicons.org/rabbitmq" />
         <img height="30" width="40" src="https://cdn.simpleicons.org/amazonaws" />
     </div>
 </div>
+
+###Interesse em aprender
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <p style="font-weight: 600; font-size: 20px;">Interesse em aprender</p>
     <div style="display: inline_block;">
         <img height="30" width="40" src="https://cdn.simpleicons.org/react" />
         <img height="30" width="40" src="https://cdn.simpleicons.org/nestjs" />
         <img height="30" width="40" src="https://cdn.simpleicons.org/python" />
     </div>
 </div>
+
+###Contato
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <p style="font-weight: 600; font-size: 20px;">Contato</p>
     <div>
         <a href="https://instagram.com/luiz_martendal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
         <a href = "mailto:luiz.martendal52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
