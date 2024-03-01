@@ -1,11 +1,11 @@
-## Olá! Eu sou Luiz Henrique Martendal
+<h1 align="center">Olá! Eu sou Luiz Henrique Martendal</h1>
 
 <div align="center">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&langs_count=8&hide_progress=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&langs_count=8&hide_progress=true&theme=dark"/>
 </div>
 
-### Linguagens & Frameworks
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<h2 align="center">Linguagens & Frameworks</h2>
+<div align="center">
     <div style="display: inline_block;">
         <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,16 +32,16 @@
     </div>
   </div>
 
-### O que estou aprendendo?
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<h2 align="center">O que estou aprendendo?</h2>
+<div align="center">
     <div style="display: inline_block;">
         <img height="30" width="40" src="https://cdn.simpleicons.org/rabbitmq" />
         <img height="30" width="40" src="https://cdn.simpleicons.org/amazonaws" />
     </div>
 </div>
 
-### Interesse em aprender
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<h2 align="center">Interesse em aprender</h2>
+<div align="center">
     <div style="display: inline_block;">
         <img height="30" width="40" src="https://cdn.simpleicons.org/react" />
         <img height="30" width="40" src="https://cdn.simpleicons.org/nestjs" />
@@ -49,8 +49,8 @@
     </div>
 </div>
 
-### Contato
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<h2 align="center">Contato</h2>
+<div align="center">
     <div>
         <a href="https://instagram.com/luiz_martendal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
         <a href = "mailto:luiz.martendal52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
