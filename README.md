@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Luiz Henrique Martendal</h1>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&langs_count=8&hide_progress=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMartendal&langs_count=8&hide_progress=true&theme=transparent"/>
 </div>
 
 <h2 align="center">Linguagens & Frameworks</h2>
