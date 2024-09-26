@@ -24,6 +24,7 @@
         <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
         <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+        <img height="30" width="40" src="https://cdn.simpleicons.org/rabbitmq" />
         <br><br>
         <img align="center" alt="postgresql height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
         <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -35,8 +36,8 @@
 <h2 align="center">O que estou aprendendo?</h2>
 <div align="center">
     <div style="display: inline_block;">
-        <img height="30" width="40" src="https://cdn.simpleicons.org/rabbitmq" />
-        <img height="30" width="40" src="https://cdn.simpleicons.org/amazonaws" />
+        <img height="30" width="40" src="https://cdn.simpleicons.org/amazonwebservices" />
+        <img height="30" width="40" src="https://cdn.simpleicons.org/python" />
     </div>
 </div>
 
@@ -45,7 +46,6 @@
     <div style="display: inline_block;">
         <img height="30" width="40" src="https://cdn.simpleicons.org/react" />
         <img height="30" width="40" src="https://cdn.simpleicons.org/nestjs" />
-        <img height="30" width="40" src="https://cdn.simpleicons.org/python" />
     </div>
 </div>
 
