@@ -23,7 +23,7 @@
         <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
         <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-        <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+        <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.simpleicons.org/github">
         <img align="center" alt="rabbitmq" height="30" width="40" src="https://cdn.simpleicons.org/rabbitmq" />
         <br><br>
         <img align="center" alt="postgresql height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
